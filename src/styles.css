@@ -1,0 +1,10 @@
+body {
+  background-color: #967259;
+  font-family: Arial;
+  margin: 0;
+}
+
+.coffee-window {
+  display: flex;
+  justify-content: flex-end;
+}

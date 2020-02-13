@@ -1,2 +1,0 @@
-# CoffeeApplication
-Created with CodeSandbox
