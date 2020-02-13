@@ -14,6 +14,11 @@ const ingredients = {
   ],
   daries: [
     {
+      name: "Condensed Milk",
+      active: false,
+      available: 0
+    },
+    {
       name: "Milk",
       active: false,
       available: 0

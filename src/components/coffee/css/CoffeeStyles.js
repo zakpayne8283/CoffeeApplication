@@ -126,6 +126,10 @@ export const CoffeeCupIngredient = styled.div`
 
   position: relative;
 
+  &.condensed-milk {
+    background-color: moccasin;
+  }
+
   &.drip-coffee {
     background-color: saddlebrown;
   }

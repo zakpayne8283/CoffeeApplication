@@ -65,6 +65,18 @@ const recipes = [
     description: "Just a plain old drip coffee."
   },
   {
+    name: "Cafe Bombon",
+    ingredients: {
+      coffees: [{ name: "Espresso", amount: "50%" }],
+      daries: [{ name: "Condensed Milk", amount: "50%" }],
+      others: []
+    },
+    ingredientsRaw: ["Espresso", "Condensed Milk"],
+    defaultSize: "8",
+    temperature: "Hot",
+    description: "Just a plain old drip coffee."
+  },
+  {
     name: "Cappucino",
     ingredients: {
       coffees: [{ name: "Espresso", amount: "33%" }],
